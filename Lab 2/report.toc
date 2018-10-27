@@ -1,0 +1,22 @@
+\contentsline {section}{\numberline {1}Lab 1: Stator \& Rotor}{3}{section.1}
+\contentsline {subsection}{\numberline {1.1}Parts}{3}{subsection.1.1}
+\contentsline {paragraph}{}{3}{section*.2}
+\contentsline {subsection}{\numberline {1.2}3D Print the Dodecagon Rotor and Octagon Stator}{3}{subsection.1.2}
+\contentsline {paragraph}{}{3}{section*.3}
+\contentsline {subsection}{\numberline {1.3}Magnet Polarity}{3}{subsection.1.3}
+\contentsline {paragraph}{}{3}{section*.4}
+\contentsline {subsection}{\numberline {1.4}Stator-Bearing Fitting}{3}{subsection.1.4}
+\contentsline {paragraph}{}{3}{section*.5}
+\contentsline {subsection}{\numberline {1.5}Solenoid Fabrication}{4}{subsection.1.5}
+\contentsline {paragraph}{}{4}{section*.6}
+\contentsline {subsection}{\numberline {1.6}Stepper Motor Assembly}{4}{subsection.1.6}
+\contentsline {paragraph}{}{4}{section*.7}
+\contentsline {section}{\numberline {2}Lab 2: Stepper Circuit}{4}{section.2}
+\contentsline {subsection}{\numberline {2.1}Solder Everything Together}{4}{subsection.2.1}
+\contentsline {paragraph}{}{4}{section*.8}
+\contentsline {section}{\numberline {3}Lab 3: Programming}{5}{section.3}
+\contentsline {subsection}{\numberline {3.1}Arduino Programming}{5}{subsection.3.1}
+\contentsline {paragraph}{}{5}{section*.9}
+\contentsline {section}{\numberline {4}Lab 4: Control}{8}{section.4}
+\contentsline {subsection}{\numberline {4.1}Final Test}{8}{subsection.4.1}
+\contentsline {paragraph}{}{8}{section*.10}
